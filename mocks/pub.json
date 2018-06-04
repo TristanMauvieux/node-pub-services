@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Mouche qui louche",
+        "owner": {
+            "firtsName":"Elodie",
+            "lastName": "vamieux",
+            "mail": "elodievamieux@bzh.cmom"
+        },
+        "openDays":[
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "openHours":{
+            "start": 10,
+            "end":2
+        },
+        "beers":[
+            {
+                "type": "Blonde",
+                "name": "biere blonde"
+            },
+            {
+                "type": "brune",
+                "name": "Trinitaine"
+            }
+        ]
+    },
+    {
+        "name": "Arawak",
+        "owner": {
+            "firstName": "Nicolas",
+            "lastName": "Hodicq",
+            "mail": "nhodicq@bewizyu.com"
+        },
+        "openDays": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"  
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+                {
+                    "type": "Blonde",
+                    "name": "Triple Karmeliet"
+                }
+        ]
+    }
+]

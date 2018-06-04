@@ -1,0 +1,23 @@
+{
+  "name": "node-pub-services",
+  "version": "1.0.0",
+  "description": "exercice DTA via la formation diginamic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanMauvieux/node-pub-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanMauvieux/node-pub-services/issues"
+  },
+  "homepage": "https://github.com/TristanMauvieux/node-pub-services#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
